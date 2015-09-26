@@ -1,4 +1,6 @@
 myapp:
   config:
-    name: config-service
-	param1: value1
+    name: myapp-config
+  config:
+    param1:
+      valule1: hello ranjan
