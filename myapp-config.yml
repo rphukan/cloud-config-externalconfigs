@@ -1,6 +1,0 @@
-myapp:
-  config:
-    name: myapp-config
-  params:
-    param1:
-      value1: hello ranjan
