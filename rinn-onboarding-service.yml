@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: rinn-onboarding-service
+
+server:
+  port: 8183
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8181/eureka
