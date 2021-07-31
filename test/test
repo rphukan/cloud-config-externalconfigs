@@ -1,0 +1,13 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Loan Applications",
+    "description" : "Loan Applications",
+    "version" : "v1"
+  },
+  "servers" : [ {
+    "url" : "/"
+  } ],
+  "paths" : { },
+  "components" : { }
+}
